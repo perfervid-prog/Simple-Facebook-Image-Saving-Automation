@@ -1,0 +1,22 @@
+# Virtual environment
+env/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Application data (Sensitive browser profile)
+fb_automation_profile/
+
+# Logs
+*.log
+
+# IDE settings
+.vscode/
+.idea/
+
+# Local configuration
+settings.json
